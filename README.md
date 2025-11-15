@@ -29,6 +29,7 @@ The maximum number of hours played is 223.1 hours.
 The mean is 5.846.
 
 Potential error in the data:
+
 The Number of hours can have outliers as there are values that are very large compared to the average and can skew the data.
 
 Data was collected by a team led by Dr.Frank where they set up servers and players actions are recorded as they navigate through the world.
@@ -36,6 +37,7 @@ Data was collected by a team led by Dr.Frank where they set up servers and playe
 
 
 Step2
+
 Can the age and the amount of time spent playing the game be related to whether he or she subscribes to the newsletter or not?
 
 
